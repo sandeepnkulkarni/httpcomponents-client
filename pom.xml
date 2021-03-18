@@ -76,8 +76,9 @@
     <hc.stylecheck.version>1</hc.stylecheck.version>
     <rxjava.version>2.2.7</rxjava.version>
     <api.comparison.version>5.0</api.comparison.version>
-    <sonar.projectKey>sandeepnkulkarni_httpcomponents-client</sonar.projectKey>
+    <sonar.projectKey>sandeepnkulkarni_httpcomponents_client</sonar.projectKey>
     <sonar.organization>sandeepnkulkarni</sonar.organization>
+	<sonar.moduleKey>${project.groupId}:${project.artifactId}</sonar.moduleKey>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   
